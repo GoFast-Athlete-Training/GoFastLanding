@@ -1,0 +1,26 @@
+{
+  "name": "gofastlanding",
+  "version": "1.0.0",
+  "description": "A simple HTML landing page that directs users to the GoFast demo platform.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "npm run build && echo 'Build complete! Deploy the dist folder to your hosting service.'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoFast-Athlete-Training/GoFastLanding.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GoFast-Athlete-Training/GoFastLanding/issues"
+  },
+  "homepage": "https://github.com/GoFast-Athlete-Training/GoFastLanding#readme",
+  "dependencies": {
+    "vite": "^7.1.12"
+  }
+}
