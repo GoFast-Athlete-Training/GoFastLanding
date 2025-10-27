@@ -14,7 +14,7 @@ This is the **static HTML landing page** for GoFast. It's a simple marketing sit
 The landing page:
 1. Explains what GoFast is
 2. Highlights key features
-3. Provides a CTA to go to the actual platform (`gofastfrontend-demo.vercel.app`)
+3. Provides a CTA to go to the actual platform (`app.gofastcrushgoals.com`)
 
 ## Deployment
 
