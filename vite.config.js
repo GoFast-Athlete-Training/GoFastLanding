@@ -7,6 +7,9 @@ export default defineConfig({
     rollupOptions: {
       input: {
         main: './index.html',
+        about: './about.html',
+        benefits: './benefits.html',
+        'how-it-works': './how-it-works.html',
         privacy: './privacy-policy.html'
       }
     }

@@ -1,7 +1,7 @@
 {
   "name": "gofastlanding",
   "version": "1.0.0",
-  "description": "A simple HTML landing page that directs users to the GoFast demo platform.",
+  "description": "A simple HTML landing page that directs users to the GoFast RunCrew platform.",
   "main": "index.js",
   "scripts": {
     "dev": "vite",
