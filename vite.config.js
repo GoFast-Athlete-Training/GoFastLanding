@@ -8,9 +8,12 @@ export default defineConfig({
       input: {
         main: './index.html',
         about: './about.html',
-        benefits: './benefits.html',
+        blog: './blog.html',
         'how-it-works': './how-it-works.html',
-        privacy: './privacy-policy.html'
+        privacy: './privacy-policy.html',
+        shop: './shop.html',
+        'terms-of-service': './terms-of-service.html',
+        'blog-benefits-pr': './blog/benefits-of-group-runs-on-pr.html'
       }
     }
   },
