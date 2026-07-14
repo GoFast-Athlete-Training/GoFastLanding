@@ -10,7 +10,7 @@ export default defineConfig({
         about: './about.html',
         blog: './blog.html',
         'how-it-works': './how-it-works.html',
-        privacy: './privacy-policy.html',
+        privacy: './privacy-policy/index.html',
         shop: './shop.html',
         'terms-of-service': './terms-of-service.html',
         'blog-benefits-pr': './blog/benefits-of-group-runs-on-pr.html'

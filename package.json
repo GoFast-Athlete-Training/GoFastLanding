@@ -1,7 +1,7 @@
 {
   "name": "gofastlanding",
   "version": "1.0.0",
-  "description": "A simple HTML landing page that directs users to the GoFast RunCrew platform.",
+  "description": "A simple HTML landing page for GoFast — training plans, run discovery, and training with others. CTAs link to the GoFast PR App Store listing.",
   "main": "index.js",
   "scripts": {
     "dev": "vite",
