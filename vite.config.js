@@ -10,6 +10,7 @@ export default defineConfig({
         about: './about.html',
         blog: './blog.html',
         'how-it-works': './how-it-works.html',
+        products: './products.html',
         privacy: './privacy-policy/index.html',
         shop: './shop.html',
         'terms-of-service': './terms-of-service.html',
